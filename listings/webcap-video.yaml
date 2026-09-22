@@ -1,5 +1,5 @@
 name: "webcap — video (scroll-capture video)"
-url: "https://nickname-trident-driveway.ngrok-free.dev/v1/x402/video"
+url: "https://webcap.shoutsid.fyi/v1/x402/video"
 protocol: "x402"
 description: "Scroll-capture a URL as an MP4/WebM video in one call. Gasless x402 USDC payment on Base."
 category: "media"

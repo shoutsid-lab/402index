@@ -1,5 +1,5 @@
 name: "webcap — map-lite (single-URL site map)"
-url: "https://nickname-trident-driveway.ngrok-free.dev/v1/x402/map-lite"
+url: "https://webcap.shoutsid.fyi/v1/x402/map-lite"
 protocol: "x402"
 description: "Map a site to its URL list via sitemap/robots plus a 1-hop same-host crawl in one call. Gasless x402 USDC payment on Base."
 category: "web-scraping"

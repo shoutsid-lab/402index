@@ -1,5 +1,5 @@
 name: "webcap — capture (screenshot + OG metadata)"
-url: "https://nickname-trident-driveway.ngrok-free.dev/v1/x402/capture"
+url: "https://webcap.shoutsid.fyi/v1/x402/capture"
 protocol: "x402"
 description: "Capture a URL as PNG/JPEG/PDF plus free OG metadata. Gasless x402 USDC payment on Base."
 category: "media"
